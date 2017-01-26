@@ -13,7 +13,7 @@ class ReadFile
 		bool _eof;
 		bool closed;
 	public:
-		ReadFile(constant char* file_name);
+		ReadFile(const char* file_name);
 		~ReadFile();
 		String* readLine();
 		bool eof();
