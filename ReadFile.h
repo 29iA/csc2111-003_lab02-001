@@ -20,12 +20,5 @@ class ReadFile
 		void close();
 };
 
-/*
-ReadFile* createReadFile(const char* file_name);
-void destroyReadFile(ReadFile* rf);
-String* readLine(ReadFile* rf);
-bool eof(ReadFile* rf);
-void close(ReadFile* rf);
-*/
 
 #endif

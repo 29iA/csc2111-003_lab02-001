@@ -18,11 +18,4 @@ class WriteFile
 		void close();
 };
 
-/*
-WriteFile* createWriteFile(const char* file_name);
-void destroyWriteFile(WriteFile* wf);
-void writeLine(WriteFile* wf, String* line);
-void close(WriteFile* wf);
-*/
-
 #endif
