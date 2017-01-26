@@ -4,7 +4,6 @@
 #include "Tokens.h"
 
 #include <iostream>
-// Test
 int main()
 {
    ReadFile* rf = new ReadFile("cds.txt");
