@@ -1,3 +1,4 @@
+// Final version
 #if !defined READ_FILE
 #define READ_FILE
 
@@ -19,6 +20,5 @@ class ReadFile
 		bool eof();
 		void close();
 };
-
 
 #endif
