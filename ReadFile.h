@@ -1,4 +1,4 @@
-// Final version
+// Final version by Cong Tuan Nguyen
 #if !defined READ_FILE
 #define READ_FILE
 

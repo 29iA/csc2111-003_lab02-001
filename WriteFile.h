@@ -18,6 +18,4 @@ class WriteFile
 		void close();
 };
 
-
-
 #endif

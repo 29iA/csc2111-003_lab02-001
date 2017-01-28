@@ -1,4 +1,4 @@
-// Final version
+// Final version by Cong Tuan Nguyen
 #include "ReadFile.h"
 #include <iostream>
 #include <string>
